@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "孤独の宗教",
+  "base_artist": "syudou",
+  "createdAt": "2025-12-05T10:40:49.788641Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "孤独の宗教",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_孤独の宗教_syudou.txt"
+    }
+  ]
+}
